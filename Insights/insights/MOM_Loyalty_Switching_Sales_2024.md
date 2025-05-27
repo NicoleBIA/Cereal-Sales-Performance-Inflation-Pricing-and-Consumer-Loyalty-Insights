@@ -8,9 +8,9 @@ Visuals Referenced:
 
 ## Summary
 
-In the final phases of brand loyalty analysis, **Malt-O-Meal (MOM)** unexpectedly emerged as a *Hero Brand* in the budget cereal segment — not just holding its ground against private labels like Kroger Brand and Great Value, but **outperforming national brands like Quaker Oats** in total sales and brand loyalty **within the dataset scope.**
+In the final phases of brand loyalty analysis, **Malt-O-Meal (MOM)** unexpectedly emerged as a *Hero Brand* in the budget cereal segment, not just holding its ground against private labels like Kroger Brand and Great Value, but **outperforming national brands like Quaker Oats** in total sales and brand loyalty **within the dataset scope.**
 
-Two product standouts; **Frosted Flakes** and **Berry Colossal Crunch** — revealed how MOM is quietly winning over budget-conscious customers *without heavy promotions or national-level branding spend.*
+Two product standouts; **Frosted Flakes** and **Berry Colossal Crunch**, revealed how MOM is quietly winning over budget-conscious customers *without heavy promotions or national-level branding spend.*
 
 ---
 
