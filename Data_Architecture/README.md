@@ -1,6 +1,6 @@
 ### Data Architecture – Cereal Market Evolution Project
 
-This document captures all key elements, strategies, and simulated design considerations behind the Cereal Market Evolution dataset created by Nicole Reaves BIA.
+This document captures all key elements, strategies, and simulated design considerations behind the Cereal Market Evolution dataset created by Nicole Reaves Business Intelligence Analyst, Business Analyst and Certifified Process Improvement Specialist, (CPIS).
 
 ---
 
