@@ -4,7 +4,7 @@ Nicole Reaves | Business Intelligence & Market Strategy
 
 ##  Professional Ethics Statement
 
-> As a data analyst and strategist, I recognize the ethical responsibility that accompanies data-driven storytelling — especially in domains impacting consumer welfare and economic access. This project simulates real-world market intelligence practices while upholding transparency, fairness, and a respect for competitive integrity.
+> As a data analyst and strategist, I recognize the ethical responsibility that accompanies data-driven storytelling; especially in domains impacting consumer welfare and economic access. This project simulates real-world market intelligence practices while upholding transparency, fairness, and a respect for competitive integrity.
 
 ---
 
