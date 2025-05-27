@@ -1,4 +1,4 @@
-# 🔐 Data Governance, Security & Ethics  
+# Data Governance, Security & Ethics  
 **Cereal Market Evolution – Power BI Project**  
 Nicole Reaves | Business Intelligence & Market Strategy
 
@@ -8,7 +8,7 @@ Nicole Reaves | Business Intelligence & Market Strategy
 
 ---
 
-## ✅ Summary
+## Summary
 
 ---
 
@@ -28,7 +28,7 @@ This document outlines the **data governance, security protocols, and ethical co
 
 ---
 
-## 🗂️ 1. Data Governance
+## 1. Data Governance
 
 > Clear structure, version control, and auditability across all project layers.
 
@@ -46,7 +46,7 @@ This document outlines the **data governance, security protocols, and ethical co
 
 ---
 
-## 🔒 2. Data Security
+## 2. Data Security
 
 > Simulated scope with secure, structured practices reflecting enterprise-ready thinking.
 
@@ -61,7 +61,7 @@ This document outlines the **data governance, security protocols, and ethical co
 
 ---
 
-## ⚖️ 3. Data Ethics
+## 3. Data Ethics
 
 > Transparency, fairness, and responsible use of data storytelling.
 
