@@ -6,7 +6,7 @@ Use this index to quickly understand the purpose of each dataset and how they wo
 
 ---
 
-## 🧱 Primary Files & Descriptions
+## Primary Files & Descriptions
 
 1. [Cereal_Sales_Pricing_Dataset_Corrected.md](Cereal_Sales_Pricing_Dataset_Corrected.md)  
    Core sales dataset with pricing, promotion, retailer, and volume data  
@@ -42,6 +42,6 @@ Use this index to quickly understand the purpose of each dataset and how they wo
 
 ---
 
-📁 This documentation reflects the architectural thinking behind dataset simulation, forecasting, behavioral modeling, and business alignment in the Cereal Market Evolution project.
+This documentation reflects the architectural thinking behind dataset simulation, forecasting, behavioral modeling, and business alignment in the Cereal Market Evolution project.
 
 
