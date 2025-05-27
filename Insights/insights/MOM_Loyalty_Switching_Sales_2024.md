@@ -32,7 +32,7 @@ Two product standouts; **Frosted Flakes** and **Berry Colossal Crunch**, reveale
 - **Average Sales Share (2020–2025):** **40.8%** of total MOM sales
 - **Switch Frequency Score:** **0.53** → highest among MOM products, yet *still below industry switching norms*
   
- **Implication:** Berry Colossal Crunch functions as both a gateway product and loyalty anchor — possibly **cannibalizing Cap’n Crunch Berries (Quaker Oats)** due to identical flavor and packaging perception at a better price-per-ounce.
+ **Implication:** Berry Colossal Crunch functions as both a gateway product and loyalty anchor, possibly **cannibalizing Cap’n Crunch Berries (Quaker Oats)** due to identical flavor and packaging perception at a better price-per-ounce.
 
 ![MOM Intra-Brand Rotation](../../Images/MOM_Intrabrand_Rotation_Loyalty.png)
 
