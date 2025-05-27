@@ -26,7 +26,7 @@ Nicole led the end-to-end creation of a synthetic but business-aligned dataset, 
 ---
 
 #### Primary Tables in Data Model
-1. **Cereal_Sales_Pricing_Dataset_Corrected**  
+1. **Cereal_Sales_Pricing_Dataset_**  
    - Core dataset with: Retailer, Brand, Product, Size, Price, Promotion, Units Sold, Date
 2. **Loyalty_Brand_Switching_Data**  
    - Captures prior purchases, switch frequency, and loyalty segmentation
