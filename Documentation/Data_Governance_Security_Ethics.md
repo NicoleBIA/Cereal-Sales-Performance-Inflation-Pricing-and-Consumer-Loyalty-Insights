@@ -39,7 +39,7 @@ This document outlines the **data governance, security protocols, and ethical co
 > Clear structure, version control, and auditability across all project layers.
 
 - **Data Provenance:**  
-  All datasets were created synthetically to mirror real-world conditions — no live customer, retailer, or sales systems were used.
+  All datasets were created synthetically to mirror real-world conditions; no live customer, retailer, or sales systems were used.
 
 - **Relational Data Modeling:**  
   A structured **star-schema** model with dimension and fact tables was established in Power BI, with a dedicated `Retailer_Batch_Key` column serving as a primary relationship key.
@@ -48,7 +48,7 @@ This document outlines the **data governance, security protocols, and ethical co
   A data dictionary, model screenshot, and DAX measure inventory are included in the GitHub `/PowerBI/` folder for transparency and reusability.
 
 - **Version Control & Change History:**  
-  GitHub is used to document changes to visualizations, insights, and calculations — enabling collaborative traceability.
+  GitHub is used to document changes to visualizations, insights, and calculations; enabling collaborative traceability.
 
 ---
 
@@ -75,13 +75,13 @@ This document outlines the **data governance, security protocols, and ethical co
   AI-projected pricing was generated for simulation and learning purposes. No claims are made regarding real-world pricing behavior or predictive accuracy.
 
 - **Bias & Consumer Impact Transparency:**  
-  The project examines phenomena such as **anchoring bias**, **shrinkflation**, and **price-per-ounce distortion** — illuminating real behavioral economics mechanisms that affect consumers.
+  The project examines phenomena such as **anchoring bias**, **shrinkflation**, and **price-per-ounce distortion**; illuminating real behavioral economics mechanisms that affect consumers.
 
 - **Brand & Retailer Fairness:**  
   All national and store brands were treated equitably, with naming conventions and price logic grounded in retail realism. No favoritism or manipulation of results was applied.
 
 - **Ethical Storytelling:**  
-  All visuals are scaled and annotated truthfully — no truncated axes or misleading comparisons are used.
+  All visuals are scaled and annotated truthfully; no truncated axes or misleading comparisons are used.
 
 ---
 
