@@ -4,7 +4,7 @@
 
 ---
 
-### 🧠 Overview
+### Overview
 This markdown explores two nearly identical SKU offerings of General Mills’ Cinnamon Toast Crunch at **Costco** and **Sam’s Club**, highlighting how **promotion type** and **visual price structure** distort consumer cost perception—despite similar sizes and real costs.
 
 This comparison draws on a broader behavioral pricing investigation from the **Cereal Market Evolution: Strategic Pricing, Market Intelligence & Consumer Psychology** project (2020–2025).
@@ -23,7 +23,7 @@ This comparison draws on a broader behavioral pricing investigation from the **C
 - **Actual Price per Ounce:** $0.05  
 - **Price Perception Difference:** 0.00
 
-#### ✅ Key Insight:
+#### Key Insight:
 Despite the promotional framing (BOGO), Costco’s pricing maintains transparency. The **unit cost matches perception** due to clear dual-pack formatting and clean price labeling. This alignment supports **trust** and **regression integrity** in price-perception modeling.
 
 ---
@@ -45,7 +45,7 @@ While the clearance price appears low, it **masks true cost** due to **duplicate
 
 ---
 
-### 🧠 Behavioral Reflection
+### Behavioral Reflection
 Although both stores offered the **same size and nearly identical price**, the difference in **promotion type** led to dramatically different **perception vs. reality outcomes**:
 
 - **Costco** → Clear BOGO structure = **consumer trust retained**
@@ -56,7 +56,7 @@ This distinction illustrates a broader theme in behavioral economics:
 
 ---
 
-### 🧠 Strategic Takeaways
+### Strategic Takeaways
 - **Promotion Clarity Matters:** Retailers must recognize how perceived value is shaped by framing—not just raw price.
 - **Outliers Need Context:** Analysts should investigate outlier points instead of default removal—behavioral clues often reside there.
 - **Excel Cross-Validation Adds Depth:** Identifying exact transaction dates, Entry_IDs, and batch detail clarified data origins.
@@ -71,5 +71,5 @@ This distinction illustrates a broader theme in behavioral economics:
 
 ---
 
-🔍 **Visual Source**: Power BI scatterplot — *Perceived Price per Ounce vs. Actual Price per Ounce*  
-🧠 **Project Context**: Cereal Market Evolution (2020–2025), Strategic Pricing & Behavioral Analysis  
+**Visual Source**: Power BI scatterplot — *Perceived Price per Ounce vs. Actual Price per Ounce*  
+**Project Context**: Cereal Market Evolution (2020–2025), Strategic Pricing & Behavioral Analysis  
