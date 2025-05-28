@@ -1,4 +1,4 @@
-# 🧠 Power BI Data Model Enhancements – Optimized Reference Guide
+# Power BI Data Model Enhancements – Optimized Reference Guide
 
 This reference documents all key **enhancements made to the Power BI data model** to improve performance, ensure flexibility across visuals, and support deeper analysis across pricing, sales, volume, inflation, and consumer behavior.
 
@@ -19,7 +19,7 @@ Optimizing the model enables:
 
 ---
 
-## 📐 DAX Measures Created
+## DAX Measures Created
 
 These DAX measures were designed to power interactive visuals, compute core metrics, and support behavioral economics storytelling.
 
@@ -38,7 +38,7 @@ These DAX measures were designed to power interactive visuals, compute core metr
 
 ---
 
-## 🧱 Supporting Tables Added
+## Supporting Tables Added
 
 | Table Name | Description |
 |------------|-------------|
@@ -47,7 +47,7 @@ These DAX measures were designed to power interactive visuals, compute core metr
 
 ---
 
-## 🔑 Columns & Keys Engineered
+## Columns & Keys Engineered
 
 | Column | Purpose |
 |--------|---------|
@@ -55,7 +55,7 @@ These DAX measures were designed to power interactive visuals, compute core metr
 
 ---
 
-## 💡 Strategic Impact
+## Strategic Impact
 
 These optimizations enabled:
 - Smoother experience across 8+ datasets.
@@ -63,6 +63,6 @@ These optimizations enabled:
 - Stronger performance with 99K+ rows in the core dataset.
 - Enriched visuals tied to consumer psychology, pricing strategy, and inflation response.
 
-> ✨ _This model architecture turned a raw pricing dataset into a fully intelligent, responsive BI system tailored for executive-level market strategy._ 🚀
+> This model architecture turned a raw pricing dataset into a fully intelligent, responsive BI system tailored for executive-level market strategy.
 
 ---
