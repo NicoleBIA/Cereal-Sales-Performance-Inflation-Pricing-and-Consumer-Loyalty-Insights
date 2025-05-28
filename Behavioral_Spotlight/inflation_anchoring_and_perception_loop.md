@@ -8,7 +8,7 @@ This insight decodes the psychological loop where inflation expectations reshape
 
 ---
 
-### 📌 Key Behavioral Insight
+### Key Behavioral Insight
 
 Many consumers have **anchored inflation** into their long-term memory—meaning:
 
@@ -18,7 +18,7 @@ As a result, when actual prices *don’t* exceed expectations, they’re perceiv
 
 ---
 
-### 🔁 Strategic Pattern Emerged
+### Strategic Pattern Emerged
 
 1. **Prices rose** →  
 2. **Consumers adjusted** →  
@@ -32,7 +32,7 @@ This is a **behavioral feedback loop**—not just economic data.
 
 ---
 
-### 📊 Real-World Signal from the Data
+### Real-World Signal from the Data
 
 Nicole's multi-brand, multi-retailer visual analysis revealed:
 
@@ -42,7 +42,7 @@ Nicole's multi-brand, multi-retailer visual analysis revealed:
 
 ---
 
-### 🧠 Why This Matters
+### Why This Matters
 
 > This insight helps analysts and strategists decode **why consumers don’t resist price hikes**—and sometimes even welcome them.
 
@@ -54,7 +54,7 @@ It provides a framework to:
 
 ---
 
-### 🔎 Analyst Reflection
+### Analyst Reflection
 
 This wasn’t just about seeing prices change.  
 It was about recognizing that **consumer behavior changed first**—and the market followed.
