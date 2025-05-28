@@ -32,7 +32,7 @@ I approach every dataset, dashboard, and visualization with one question:
 - 🟣 **Minimal noise. Maximum meaning.**  
 - 🟢 **Every visual earns its place.**  
 - 🔵 **Insight > Impression.**  
-- 🧠 **Behavioral psychology + business intelligence = decision power.**
+- 🟣 **Behavioral psychology + business intelligence = decision power.**
 
 Dashboards shouldn’t just show the *what*. They must uncover the *why*, illuminate the *how*, and spark the *what next*.
 
