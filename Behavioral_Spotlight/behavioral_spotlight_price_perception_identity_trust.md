@@ -42,7 +42,7 @@ This overestimation reflects **anchoring bias** and **brand trust**, not confusi
 
 ---
 
-### 💬 What This Really Means  
+### What This Really Means  
 
 While this seems counterintuitive at first (wouldn’t trust lead to underestimation?), we see something else at play:
 
@@ -72,7 +72,7 @@ Despite its affordability, **Froot Loops is mentally framed by shoppers as a “
 
 ---
 
-### ⚡ Real-Time Analyst Breakthrough  
+### Real-Time Analyst Breakthrough  
 
 During this analysis, I recognized one of my own implicit biases:  
 I initially assumed all consumers are price-sensitive and view high price per ounce negatively. But in reality, many customers **welcome premium pricing** — as a signal of trust, status, lifestyle, or stability.
@@ -94,23 +94,23 @@ This dataset reminded me that pricing is not only about affordability — it's a
 ---
 
 ### 📎 Related Visual  
-[📊 Price Expectation vs. Reality Scatter Plot](../Images/price_expectation_vs_reality_scatter_plot.png)
+[Price Expectation vs. Reality Scatter Plot](../Images/price_expectation_vs_reality_scatter_plot.png)
 
 ---
 
 ---
 
-### 🔍 Additional Questions for Analysts & Strategists
+### Additional Questions for Analysts & Strategists
 
 - What can perception vs. reality analysis reveal that traditional pricing models miss?
 - Where might behavioral misalignment be inflating or masking actual cost concerns?
 - How do brand nostalgia and pricing memory shape buying behavior post-inflation?
 - What legacy products are protected by overestimation — and can store brands replicate that?
 
-> 💭 These are the kinds of questions pricing leaders and analysts should be asking when perception doesn’t align with price reality — because *where perception deviates, strategy lives*.
+> These are the kinds of questions pricing leaders and analysts should be asking when perception doesn’t align with price reality — because *where perception deviates, strategy lives*.
 
 ---
 
-### ✅ Next Step  
+### Next Step  
 See the corresponding [Strategic Recommendation on Perceived Value & Brand Positioning](../Strategic_Recommendations/price_perception_strategy.md)
 
