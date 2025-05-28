@@ -24,7 +24,7 @@ Consumers expect high prices → brands deliver slightly less → the gap feels 
 
 ---
 
-### 🧠 Strategic & Psychological Takeaway  
+### Strategic & Psychological Takeaway  
 
 - **Retailers** can lean into this inflation perception by optimizing *non-promotional price presentation* (like stable packaging and strong branding).
 - **CPG brands** can frame pricing narratives around *consistency and quality*, rather than discounting.
