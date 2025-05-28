@@ -14,16 +14,6 @@ This insight suggests MOM has built **strong intrabrand loyalty**, where custome
 
 ---
 
-## 🟪 Embedded Visuals
-
-### Loyalty Sales Volume by Brand – 2024 (Kroger Focus)
-![Loyalty Sales Volume](../Images/loyalty_sales_volume_by_brand2_2024.png)
-
-### MOM Product-Level Loyalty & Switch Behavior
-![MOM Loyalty Spotlight](../Images/mom_intra_brand_loyalty_spotlight2.png)
-
----
-
 ## Business Question 
 **Which cereal brands show the highest consumer loyalty during inflationary periods, and how does this behavior vary across budget vs. premium or store-brand categories?**
 
@@ -32,6 +22,16 @@ This analysis was designed to answer a core strategic question for both CPG firm
 > **Are budget-conscious shoppers loyal to low-cost cereal brands, or are they simply switching based on price?**  
 
 Understanding **brand stickiness versus price-driven switching** helps inform product positioning, pricing resilience strategies, and promotional planning in high-inflation environments.
+
+---
+
+## 🟪 Embedded Visuals
+
+### Loyalty Sales Volume by Brand – 2024 (Kroger Focus)
+![Loyalty Sales Volume](../Images/loyalty_sales_volume_by_brand2_2024.png)
+
+### MOM Product-Level Loyalty & Switch Behavior
+![MOM Loyalty Spotlight](../Images/mom_intra_brand_loyalty_spotlight2.png)
 
 ---
 
