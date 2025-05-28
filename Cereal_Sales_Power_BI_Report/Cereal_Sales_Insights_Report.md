@@ -105,11 +105,11 @@ Power BI’s **Key Influencers and Segmenter visual** revealed a data-driven rel
 ---
 
 ##  Related Folders & Documentation
-- 📂 [`/Strategic_Recommendations`](/Strategic_Recommendations) – Tactical strategy by brand and insight  
-- 📂 [`/Behavioral_Spotlight`](/Behavioral_Spotlight) – Price perception & psychology cases  
-- 📂 [`/PowerBI`](/PowerBI) – Model structure, metrics, and performance logic  
-- 📂 [`/Images`](/Images) – Key visuals and exported charts
+- [`/Strategic_Recommendations`](/Strategic_Recommendations) – Tactical strategy by brand and insight  
+- [`/Behavioral_Spotlight`](/Behavioral_Spotlight) – Price perception & psychology cases  
+- [`/PowerBI`](/PowerBI) – Model structure, metrics, and performance logic  
+- [`/Images`](/Images) – Key visuals and exported charts
 
-📎 [View Full Report PDF](/Cereal_Sales_Power_BI_Report/Cereal_Sales_Performance_Inflattion_Pricing_Consumer_Loyalty_Insights.pdf)
+[View Full Report PDF](/Cereal_Sales_Power_BI_Report/Cereal_Sales_Performance_Inflattion_Pricing_Consumer_Loyalty_Insights.pdf)
 
 ---
