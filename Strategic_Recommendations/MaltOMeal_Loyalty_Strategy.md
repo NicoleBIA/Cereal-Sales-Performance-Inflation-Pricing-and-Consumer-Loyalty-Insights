@@ -2,14 +2,15 @@
 
 ---
 
-## Business Question 
-**Which cereal brands show the highest consumer loyalty during inflationary periods, and how does this behavior vary across budget vs. premium or store-brand categories?**
+# 🟦 Executive Summary
 
-## Purpose of Analysis
-This analysis was designed to answer a core strategic question for both CPG firms and retailers:  
-> **Are budget-conscious shoppers loyal to low-cost cereal brands, or are they simply switching based on price?**  
+The loyalty and brand switching data for 2024 reveals **Malt-O-Meal (MOM)** as a **standout performer among value-priced cereal brands**, particularly at **Kroger**. Despite being a national budget brand, MOM consistently outperforms both private label store brands and more established legacy brands like Quaker in key loyalty metrics.
 
-Understanding **brand stickiness versus price-driven switching** helps inform product positioning, pricing resilience strategies, and promotional planning in high-inflation environments.
+- **Repeat Purchase Rate at Kroger (2024):** 16.09% (Highest across all brands)
+- **Switch Frequency Score:** 0.43 (Indicating low churn and high stickiness)
+- **Top-performing Product:** MOM Frosted Flakes (repeat rate ~19.7%)
+
+This insight suggests MOM has built **strong intrabrand loyalty**, where customers not only return to the brand but often repurchase the *same product variant*. This level of consumer “stickiness” is rare among budget brands and signals a competitive advantage in both pricing and perceived value.
 
 ---
 
@@ -23,15 +24,14 @@ Understanding **brand stickiness versus price-driven switching** helps inform pr
 
 ---
 
-# 🟦 Executive Summary
+## Business Question 
+**Which cereal brands show the highest consumer loyalty during inflationary periods, and how does this behavior vary across budget vs. premium or store-brand categories?**
 
-The loyalty and brand switching data for 2024 reveals **Malt-O-Meal (MOM)** as a **standout performer among value-priced cereal brands**, particularly at **Kroger**. Despite being a national budget brand, MOM consistently outperforms both private label store brands and more established legacy brands like Quaker in key loyalty metrics.
+## Purpose of Analysis
+This analysis was designed to answer a core strategic question for both CPG firms and retailers:  
+> **Are budget-conscious shoppers loyal to low-cost cereal brands, or are they simply switching based on price?**  
 
-- **Repeat Purchase Rate at Kroger (2024):** 16.09% (Highest across all brands)
-- **Switch Frequency Score:** 0.43 (Indicating low churn and high stickiness)
-- **Top-performing Product:** MOM Frosted Flakes (repeat rate ~19.7%)
-
-This insight suggests MOM has built **strong intrabrand loyalty**, where customers not only return to the brand but often repurchase the *same product variant*. This level of consumer “stickiness” is rare among budget brands and signals a competitive advantage in both pricing and perceived value.
+Understanding **brand stickiness versus price-driven switching** helps inform product positioning, pricing resilience strategies, and promotional planning in high-inflation environments.
 
 ---
 
