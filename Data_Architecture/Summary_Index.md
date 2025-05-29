@@ -1,6 +1,6 @@
 # Data Architecture Summary Index
 
-This index provides a high-level overview of all supporting dataset documentation files in the `/Data_Architecture/` folder of the Cereal Market Evolution project. Each file outlines the structure, purpose, row count, business value, and Power BI integration for one of the core or companion datasets.
+This index provides a high-level overview of all supporting dataset documentation files in the `/Data_Architecture/` folder of the Cereal Market Evolution and Sales Performance project. Each file outlines the structure, purpose, row count, business value, and Power BI integration for one of the core or companion datasets.
 
 Use this index to quickly understand the purpose of each dataset and how they work together to simulate a real-world CPG analytics environment.
 
