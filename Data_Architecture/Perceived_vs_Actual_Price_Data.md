@@ -48,7 +48,7 @@ To simulate the psychological dynamics of price perception by comparing what con
 
 - Where are consumers most sensitive to price discrepancies?
 - How do actual price increases affect perceived value across retailers?
-- Which brands create the greatest gap in expectation vs. reality — and why?
+- Which brands create the greatest gap in expectation vs. reality, and why?
 - Can trust in pricing be linked to brand loyalty or switching behavior?
 
 ---
