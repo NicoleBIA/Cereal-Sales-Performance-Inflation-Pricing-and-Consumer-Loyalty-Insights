@@ -1,4 +1,4 @@
-# Loyalty_Brand_Switching_Data
+# Loyalty Brand Switching Data
 
 This dataset tracks **brand switching behavior and loyalty indicators** at the retailer-product level. It supports behavioral segmentation, consumer retention analysis, and strategy recommendations around pricing and promotion design.
 
