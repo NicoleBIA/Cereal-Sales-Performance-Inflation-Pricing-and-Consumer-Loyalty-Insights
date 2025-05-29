@@ -1,16 +1,16 @@
-# 🥣 Cereal_Sales_Pricing_Dataset_Corrected
+# Cereal Sales Pricing Dataset
 
 This is the **core dataset** in the Cereal Market Evolution project. It simulates realistic cereal sales data across major U.S. retailers, accounting for inflation, shrinkflation, pricing behavior, and promotional patterns. 
 
 ---
 
-## 🔹 Purpose
+## Purpose
 
 To serve as the central fact table capturing transactional-level cereal sales across brands, packaging sizes, and promotion types—enabling trend analysis, margin tracking, and strategic insights.
 
 ---
 
-## 🔹 Key Columns
+## Key Columns
 
 | Column Name             | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
@@ -28,7 +28,7 @@ To serve as the central fact table capturing transactional-level cereal sales ac
 
 ---
 
-## 🔹 Row Count Logic
+## Row Count Logic
 
 - Dataset contains **99,500 rows**
 - Each retailer is represented across **bi-monthly batches**
@@ -37,7 +37,7 @@ To serve as the central fact table capturing transactional-level cereal sales ac
 
 ---
 
-## 🔹 Use in Power BI
+## Use in Power BI
 
 - Connected to **companion tables** via `Retailer_Batch_Key`
 - Used to calculate **Total Sales**, **Average Price per Ounce**, and **Promotion Impact**
@@ -45,7 +45,7 @@ To serve as the central fact table capturing transactional-level cereal sales ac
 
 ---
 
-## 🔹 Connected Business Questions
+## Connected Business Questions
 
 - What are the monthly and yearly revenue trends by retailer and brand?
 - How do promotions affect unit sales and total revenue?
@@ -54,7 +54,7 @@ To serve as the central fact table capturing transactional-level cereal sales ac
 
 ---
 
-## 🔹 Related Tables
+## Related Tables
 
 - `Loyalty_Brand_Switching_Data`
 - `Perceived_vs_Actual_Price_Data`
