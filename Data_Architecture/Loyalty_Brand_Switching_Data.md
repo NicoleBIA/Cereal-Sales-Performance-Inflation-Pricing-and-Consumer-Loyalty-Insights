@@ -1,16 +1,16 @@
-# 🔄 Loyalty_Brand_Switching_Data
+# Loyalty_Brand_Switching_Data
 
 This dataset tracks **brand switching behavior and loyalty indicators** at the retailer-product level. It supports behavioral segmentation, consumer retention analysis, and strategy recommendations around pricing and promotion design.
 
 ---
 
-## 🔹 Purpose
+## Purpose
 
 To simulate real-world loyalty data by identifying which consumers repeatedly purchase the same brand vs. those who switch in response to price, promotion, or availability.
 
 ---
 
-## 🔹 Key Columns
+## Key Columns
 
 | Column Name              | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
@@ -31,7 +31,7 @@ To simulate real-world loyalty data by identifying which consumers repeatedly pu
 
 ---
 
-## 🔹 Row Count Logic
+## Row Count Logic
 
 - Contains **35,000 rows**
 - Structured to simulate repeated purchase behavior across time
@@ -40,7 +40,7 @@ To simulate real-world loyalty data by identifying which consumers repeatedly pu
 
 ---
 
-## 🔹 Use in Power BI
+## Use in Power BI
 
 - Drives loyalty dashboards and customer segmentation visuals
 - Connected to `Cereal_Sales_Pricing_Dataset_Corrected` via `Retailer_Batch_Key`
@@ -48,7 +48,7 @@ To simulate real-world loyalty data by identifying which consumers repeatedly pu
 
 ---
 
-## 🔹 Connected Business Questions
+## Connected Business Questions
 
 - Which brands have the highest retention rates per retailer?
 - What promotions are most effective in reducing switch frequency?
@@ -57,8 +57,8 @@ To simulate real-world loyalty data by identifying which consumers repeatedly pu
 
 ---
 
-## 🔹 Related Tables
+## Related Tables
 
-- `Cereal_Sales_Pricing_Dataset_Corrected`
+- `Cereal_Sales_Pricing_Dataset`
 - `Price_Sensitivity_Score_Data`
 - `AI_Driven_Price_Projection_Data`
