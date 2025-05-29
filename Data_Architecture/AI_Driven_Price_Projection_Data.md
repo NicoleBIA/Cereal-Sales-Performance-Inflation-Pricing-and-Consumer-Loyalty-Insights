@@ -4,13 +4,13 @@ This dataset uses AI-driven logic to simulate **future pricing scenarios** by re
 
 ---
 
-## 🔹 Purpose
+## Purpose
 
 To model projected shelf prices using predictive indicators such as past pricing trends, batch-level CPI inflation, and brand-specific discount patterns. Supports strategic pricing, margin planning, and what-if analysis.
 
 ---
 
-## 🔹 Key Columns
+## Key Columns
 
 | Column Name              | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
@@ -28,7 +28,7 @@ To model projected shelf prices using predictive indicators such as past pricing
 
 ---
 
-## 🔹 Row Count Logic
+## Row Count Logic
 
 - **40,000 rows** representing **Retailer + Brand + Product + Date** combinations across monthly forecast intervals
 - Prices projected based on weighted average increases from past price deltas, CPI trends, and retailer volatility scores
@@ -36,7 +36,7 @@ To model projected shelf prices using predictive indicators such as past pricing
 
 ---
 
-## 🔹 Use in Power BI
+## Use in Power BI
 
 - Enables **price forecasting visuals** and dynamic scenario simulation tools
 - Supports executive dashboard components like **“Future Margin Risk by Brand”**
@@ -44,7 +44,7 @@ To model projected shelf prices using predictive indicators such as past pricing
 
 ---
 
-## 🔹 Connected Business Questions
+## Connected Business Questions
 
 - What are the expected price points for high-volume products in the next 6–12 months?
 - Which brands may experience margin compression due to inflation or promotion dependency?
@@ -52,7 +52,7 @@ To model projected shelf prices using predictive indicators such as past pricing
 
 ---
 
-## 🔹 Related Tables
+## Related Tables
 
 - `Cereal_Sales_Pricing_Dataset_Corrected`
 - `Price_Sensitivity_Score_Data`
