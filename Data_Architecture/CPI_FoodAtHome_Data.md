@@ -1,4 +1,4 @@
-# CPI_FoodAtHome_Data
+# CPI FoodAtHome Data
 
 This dataset contains **Year-over-Year Consumer Price Index (CPI)** data for the Food-at-Home category, used as a macroeconomic benchmark for simulating inflationary trends in cereal pricing.
 
