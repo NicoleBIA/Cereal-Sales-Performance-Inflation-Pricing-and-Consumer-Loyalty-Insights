@@ -1,16 +1,16 @@
-# Perceived_vs_Actual_Price_Data
+# Perceived vs Actual Price Data
 
 This dataset explores the gap between **expected (perceived) pricing** and **actual shelf pricing** across retailers and brands. It supports insights into **anchoring bias**, **price trust**, and **consumer value perception** in an inflationary retail environment.
 
 ---
 
-## 🔹 Purpose
+## Purpose
 
 To simulate the psychological dynamics of price perception by comparing what consumers expect to pay (based on brand, history, or packaging) with actual market prices — providing a foundation for behavioral pricing insights.
 
 ---
 
-## 🔹 Key Columns
+## Key Columns
 
 | Column Name              | Description                                                                  |
 |--------------------------|------------------------------------------------------------------------------|
@@ -27,7 +27,7 @@ To simulate the psychological dynamics of price perception by comparing what con
 
 ---
 
-## 🔹 Row Count Logic
+## Row Count Logic
 
 - Contains **45,000 rows**
 - Structured by `Retailer + Brand + Product_Name + Batch_ID`
@@ -36,7 +36,7 @@ To simulate the psychological dynamics of price perception by comparing what con
 
 ---
 
-## 🔹 Use in Power BI
+## Use in Power BI
 
 - Supports visuals like **“Perceived vs. Actual Price Scatterplots”** and **“Price Psychology Insights”**
 - Enables calculation of **trust metrics** and analysis of price fairness perceptions
@@ -44,7 +44,7 @@ To simulate the psychological dynamics of price perception by comparing what con
 
 ---
 
-## 🔹 Connected Business Questions
+## Connected Business Questions
 
 - Where are consumers most sensitive to price discrepancies?
 - How do actual price increases affect perceived value across retailers?
@@ -53,7 +53,7 @@ To simulate the psychological dynamics of price perception by comparing what con
 
 ---
 
-## 🔹 Related Tables
+## Related Tables
 
 - `Cereal_Sales_Pricing_Dataset_Corrected`
 - `Loyalty_Brand_Switching_Data`
