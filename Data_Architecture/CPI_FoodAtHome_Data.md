@@ -1,16 +1,16 @@
-# 📊 CPI_FoodAtHome_Data
+# CPI_FoodAtHome_Data
 
 This dataset contains **Year-over-Year Consumer Price Index (CPI)** data for the Food-at-Home category, used as a macroeconomic benchmark for simulating inflationary trends in cereal pricing.
 
 ---
 
-## 🔹 Purpose
+## Purpose
 
 To provide a realistic economic layer to the dataset, enabling historical inflation analysis, price change justification, and forecasting alignment for retail price simulation and consumer response.
 
 ---
 
-## 🔹 Key Columns
+## Key Columns
 
 | Column Name              | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
@@ -23,7 +23,7 @@ To provide a realistic economic layer to the dataset, enabling historical inflat
 
 ---
 
-## 🔹 Row Count Logic
+## Row Count Logic
 
 - Contains **24 rows** (one for each quarter from 2019 to 2024)
 - Used only for **Year-over-Year inflation calculations**, not transaction-level data
@@ -31,7 +31,7 @@ To provide a realistic economic layer to the dataset, enabling historical inflat
 
 ---
 
-## 🔹 Use in Power BI
+## Use in Power BI
 
 - Used to annotate visuals and provide economic context in dashboards
 - Integrated into **AI price projections** for inflation-adjusted price forecasting
@@ -39,7 +39,7 @@ To provide a realistic economic layer to the dataset, enabling historical inflat
 
 ---
 
-## 🔹 Connected Business Questions
+## Connected Business Questions
 
 - How have inflation patterns impacted cereal pricing since 2020?
 - Did consumer switching behavior increase during high-inflation periods?
