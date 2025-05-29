@@ -1,16 +1,16 @@
-# 💸 Price_Sensitivity_Score_Data
+# Price_Sensitivity_Score_Data
 
 This dataset quantifies **consumer price sensitivity** by retailer and product, supporting elasticity analysis, promotional strategy refinement, and margin optimization.
 
 ---
 
-## 🔹 Purpose
+## Purpose
 
 To assign a **Price Sensitivity Score** (PSS) between 0 and 1 for each product at each retailer, indicating how likely consumers are to change purchase behavior in response to pricing changes.
 
 ---
 
-## 🔹 Key Columns
+## Key Columns
 
 | Column Name              | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
@@ -26,7 +26,7 @@ To assign a **Price Sensitivity Score** (PSS) between 0 and 1 for each product a
 
 ---
 
-## 🔹 Row Count Logic
+## Row Count Logic
 
 - ~30,000 rows representing distinct **Retailer + Brand + Product_Name** combinations
 - Scores generated based on sales variance, promotion responsiveness, and volume trends over time
@@ -34,7 +34,7 @@ To assign a **Price Sensitivity Score** (PSS) between 0 and 1 for each product a
 
 ---
 
-## 🔹 Use in Power BI
+## Use in Power BI
 
 - Drives **Key Influencers** analysis and discount effectiveness visuals
 - Enables **price elasticity mapping** for brands and product categories
