@@ -15,7 +15,7 @@ To simulate a real-world consumer packaged goods (CPG) retail environment by des
 ---
 
 #### Dataset Strategy Overview
-Nicole led the end-to-end creation of a synthetic but business-aligned dataset, grounded in:
+I (Nicole) led the end-to-end creation of a synthetic but business-aligned dataset, grounded in:
 - **Retailer dynamics** (Walmart, Kroger, Costco, Sam’s Club, Target, Amazon Fresh)
 - **Brand structure** (national brands vs. private labels)
 - **Promotion types** (BOGO, 10% Off, Clearance, No Promotion)
