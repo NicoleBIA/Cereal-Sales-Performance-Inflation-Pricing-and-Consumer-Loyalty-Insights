@@ -29,9 +29,9 @@ These structured relationships enable **powerful insights into consumer behavior
 
 ---
 
-## **DAX Queries Reference: Key Measures & Calculations**  
+# **DAX Queries Reference: Key Measures & Calculations**  
 
-# 🟪 DAX Queries Reference: Key Measures & Calculations  
+## 🟪 DAX Queries Reference: Key Measures & Calculations  
 **Cereal Sales Performance: Inflation, Pricing, and Consumer Loyalty Insights (CSPIPCLI)**  
 This page outlines the DAX measures developed for this simulation and how each contributes to the broader strategy of market segmentation, pricing analysis, behavioral modeling, and inflation-adjusted forecasting.
 
