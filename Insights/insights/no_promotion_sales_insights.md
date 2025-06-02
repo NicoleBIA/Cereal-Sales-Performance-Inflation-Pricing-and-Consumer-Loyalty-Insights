@@ -6,7 +6,7 @@ Consumers generated **$17.2M in total cereal sales without any promotions**, wit
 
 ---
 
-## 🧠 Insight 1: Retailer-Level Sales Without Promotions
+## Insight 1: Retailer-Level Sales Without Promotions
 
 ![Consumer Insights – No Promotion Sales Performance 2023 thru 2024](../../Images/Consumer%20Insights_No%20Promotion%20Sales%20Performance%202023%20thru%202024.png)
 
@@ -14,7 +14,7 @@ Consumers generated **$17.2M in total cereal sales without any promotions**, wit
 - **Private labels like Kroger Brand and Kellogg’s** performed well without discounts, indicating **high consumer trust** and **brand loyalty**.
 - Warehouse clubs like **Costco** lagged behind in No Promotion sales, likely due to their everyday discount positioning.
 
-### 🔎 Strategic Insight:
+### Strategic Insight:
 > *Consumers are likely prioritizing availability, brand familiarity, and everyday pricing strategies (like EDLP at Walmart) over short-term promotions.*
 
 ---
@@ -26,14 +26,14 @@ Consumers generated **$17.2M in total cereal sales without any promotions**, wit
 - **May and November 2023–2024** saw the highest MoM sales growth ($340K and $128K respectively).
 - The **largest increases** were during **BOGO** and **No Promotion** selling periods — outperforming both 10% Off and Clearance events.
 
-### 🧠 What This Tells Us:
+### What This Tells Us:
 - Full-price purchases contributed more to **sustained sales growth** than temporary markdowns.
 - **Loyalty pricing models** (e.g., Kroger Plus, Walmart’s EDLP) may be more effective than episodic promotions during inflationary periods.
 - Consumers may also be responding to **habitual buying**, **limited price elasticity**, or **perceived value vs. deal fatigue**.
 
 ---
 
-## 📌 Next Insight:
+## Next Insight:
 **→ Price Volatility & Price per Ounce ($/oz) Trends**
 
 Explore how unit price changes and product sizing influence consumer perception and brand strategy.
