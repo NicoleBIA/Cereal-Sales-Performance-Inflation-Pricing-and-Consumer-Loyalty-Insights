@@ -1,10 +1,10 @@
-## 🧠 AI-Driven Price vs. Actual Price – Strategic Insights
+## AI-Driven Price vs. Actual Price – Strategic Insights
 
 This analysis compares **AI Projected Pricing** against **Actual Pricing (Sum of Price USD)** across both **Retailers** and **Brands**, surfacing key behavioral and strategic patterns in execution.
 
 ---
 
-### 📊 Sum of Price vs. Projected Price by Retailer and Brand
+### Sum of Price vs. Projected Price by Retailer and Brand
 
 ![Sum of Price vs Projected Price by Retailer and Brand](../../Images/Sum_of_Price_Projected_Price_by_Retailer_Brand.png)
 
@@ -23,7 +23,7 @@ This analysis compares **AI Projected Pricing** against **Actual Pricing (Sum of
 
 ---
 
-### 🌎 Regional Price vs. Projected Price Trends
+### Regional Price vs. Projected Price Trends
 
 ![Regional Price vs Projected Price – Small Multiples](../../Images/Sum_of_Price_Projected_Price__Regional_Small_Multiples.png)
 
