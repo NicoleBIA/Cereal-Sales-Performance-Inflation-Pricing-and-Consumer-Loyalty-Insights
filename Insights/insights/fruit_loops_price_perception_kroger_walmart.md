@@ -1,12 +1,12 @@
 # Insight: Fruit Loops Pricing Behavior – Price Perception, Legacy Trust & Quiet Margin Gain
 
-📂 Visuals Referenced:
+**Visuals Referenced:**
 - `Average_Price_per_Ounce_FrootLoops_Kroger.png`
 - `price_expectation_vs_reality_scatter_plot.png`
 
 ---
 
-## 🟪 Summary
+## Summary
 
 Froot Loops (Kellogg’s) emerged as a standout SKU in the dataset due to an aggressive price-per-ounce escalation at Kroger — increasing by **+31.9% from 2021 to 2025**, while maintaining consumer loyalty and strong price tolerance. However, a deeper analysis using **Perceived vs. Actual Price** revealed that **Walmart** offered the most dramatic **consumer perception gap** — unlocking a new psychological dimension behind the SKU’s pricing power.
 
