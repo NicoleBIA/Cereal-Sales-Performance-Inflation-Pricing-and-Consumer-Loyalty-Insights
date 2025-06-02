@@ -1,25 +1,25 @@
 # Price Per Ounce ($/oz) Insights: Retailer vs. Brand Strategy
 
-## 🧠 Key Finding: Unit Price Reveals a Hidden Layer of Value
+## Key Finding: Unit Price Reveals a Hidden Layer of Value
 
 While shelf price often anchors consumer perception of affordability, the **average price per ounce ($/oz)** tells a different story. By 2025, store brands like **Kroger, Great Value (Walmart), and Good & Gather (Target)** reached **$0.41–$0.48 per ounce**, outpacing many national brands despite lower upfront costs.
 
 ---
 
-### 🛒 Insight 1: Retailer-Level Pricing Strategy
+### Insight 1: Retailer-Level Pricing Strategy
 
 ![Average Price per Ounce by Retailer](../../Images/Average%20Price%20per%20Ounce%20by%20Retailer.png)
 
 Kroger, Walmart, and Target hover around **$0.32–$0.34/oz**, suggesting minimal price difference in unit costs among standard retailers.
 
-🔍 **Froot Loops** (Kellogg's) had the highest price per ounce across all retailers at **$0.53/oz at Kroger**, followed by **Special K Red Berries** at **$0.52/oz**, both significantly above store brand unit costs.
+**Froot Loops** (Kellogg's) had the highest price per ounce across all retailers at **$0.53/oz at Kroger**, followed by **Special K Red Berries** at **$0.52/oz**, both significantly above store brand unit costs.
 
 > **Behavioral Insight**:  
 > Consumers may be drawn in by shelf price, but long-term purchasing behavior reflects a higher cost per use—especially for name-brand cereals priced at premium rates per ounce.
 
 ---
 
-### 🏷️ Insight 2: Brand-Level Unit Price vs. Package Price
+### Insight 2: Brand-Level Unit Price vs. Package Price
 
 ![Average Brand Price and Package Price per Ounce](../../Images/Average%20Brand%20Price%20and%20Package%20Price%20per%20Ounce.png)
 
@@ -33,7 +33,7 @@ This visual compares **average package price vs. unit price ($/oz)** across all 
 
 ---
 
-### 📊 Strategic Implication
+### Strategic Implication
 
 Understanding **price per ounce** allows retailers and CPG brands to optimize:
 - **Promotion strategies**
