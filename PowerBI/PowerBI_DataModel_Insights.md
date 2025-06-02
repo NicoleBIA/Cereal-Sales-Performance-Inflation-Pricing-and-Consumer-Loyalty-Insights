@@ -2,7 +2,7 @@
 
 ### Why a Solid Data Model Matters
 
-The Power BI data model is the **engine behind the insights** in the Cereal Market Evolution project. A well-structured model allows for **accurate cross-table analysis**, **efficient DAX calculations**, and **dynamic interactivity**. It ensures seamless integration of diverse datasets like pricing, brand switching, price sensitivity, and CPI—all while maintaining performance.
+The Power BI data model is the **engine behind the insights** in the Cereal Market Evolution project. A well-structured model allows for **accurate cross-table analysis**, **efficient DAX calculations**, and **dynamic interactivity**. It ensures seamless integration of diverse datasets like pricing, brand switching, price sensitivity, and CPI; all while maintaining performance.
 
 ---
 
