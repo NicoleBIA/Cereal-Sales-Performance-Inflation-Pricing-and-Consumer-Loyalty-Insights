@@ -1,12 +1,12 @@
-# 📉 Price Volatility & Influencer Insights: Sales Volume and Consumer Cost
+# Price Volatility & Influencer Insights: Sales Volume and Consumer Cost
 
-### 💡 Key Finding: Lower Activity Often Means Higher Prices
+### Key Finding: Lower Activity Often Means Higher Prices
 
 As total sales decrease and price volatility drops, the **average price per ounce increases**. Power BI Key Influencer visuals reveal that both **lower sales volume** and **reduced price volatility** correlate with higher unit costs across retailers.
 
 ---
 
-## 🧠 Insight 1: What Drives Price Per Ounce Increases?
+## Insight 1: What Drives Price Per Ounce Increases?
 
 ### Key Influencer – Sales Volume
 - When total sales **decrease**, average price per ounce **increases**.
@@ -20,7 +20,7 @@ As total sales decrease and price volatility drops, the **average price per ounc
 
 ---
 
-## 🔎 Price Volatility Ranking by Retailer
+## Price Volatility Ranking by Retailer
 
 | Retailer       | Price Volatility |
 |----------------|------------------|
@@ -37,17 +37,17 @@ Meanwhile, Walmart—while **most volatile** in pricing—still maintained **com
 
 ---
 
-🧠 **Narrative Insight: The Volatility Paradox**
+**Narrative Insight: The Volatility Paradox**
 
 ![Narrative Insight – The Volatility Paradox](../../Images/narrative_insight_volatility_paradox.png)
 
 Power BI's AI-driven analysis reveals a striking insight: when total sales decline, the average price per ounce increases. This contradicts conventional consumer logic, which assumes prices rise due to high demand. Instead, the data shows that even in times of decreased demand and sales, prices go up.
 
-💡 **Model Highlights:**
+**Model Highlights:**
 - A **drop of $1.29M in total sales** correlates with a **$0.01/oz increase** in price.
 - **Decreases in product-level price volatility** are also associated with **higher unit costs.**
 
-### 🧩 So what does this mean?
+### So what does this mean?
 
 This reveals **demand-agnostic pricing power**—prices are raised to **offset low demand**, not just to respond to high demand.
 
@@ -56,7 +56,7 @@ It reinforces the **perception control** retailers exercise: **prices may appear
 > **Volatility isn’t just about price movement—it’s about behavioral economics, margin strategies, and psychological misdirection.**
 
 
-## 🧠 Key Takeaway:
+## Key Takeaway:
 > **When prices don’t move, they often move *against* the shopper.**  
 Whether due to **lower demand** or **infrequent pricing updates**, less activity is associated with **higher average prices**.
 
