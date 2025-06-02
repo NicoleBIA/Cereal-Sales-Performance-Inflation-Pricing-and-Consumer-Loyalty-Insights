@@ -1,4 +1,4 @@
-# 📊 Insight Series: Price Per Ounce, Value Perception & Shrinkflation
+# Insight Series: Price Per Ounce, Value Perception & Shrinkflation
 
 This insight set reveals the hidden cost dynamics behind shelf pricing, unit pricing, and psychological value perception across brands and retailers.
 
@@ -10,7 +10,7 @@ This insight set reveals the hidden cost dynamics behind shelf pricing, unit pri
 
 ![Brand Price per Ounce](../../Images/Average%20Brand%20Price%20and%20Package%20Price%20per%20Ounce.png)
 
-### 🔍 Key Insights:
+### Key Insights:
 - Shelf price alone misleads. Store brands with low sticker prices (e.g., $2.97) often have **higher unit costs** than national brands.
 - **Kroger Private Label** leads with the highest $/oz among store brands at **$0.42/oz**.
 - **Quaker Oats** shows a high $/oz ($0.29) despite its low average shelf price — signaling potential shrinkflation.
@@ -24,7 +24,7 @@ This insight set reveals the hidden cost dynamics behind shelf pricing, unit pri
 
 ![Retailer Price per Ounce](../../Images/Average%20Price%20per%20Ounce%20by%20Retailer.png)
 
-### 🔍 Key Insights:
+### Key Insights:
 - **Club stores (Costco, Sam’s)** remain the lowest in $/oz due to bulk pricing.
 - **Walmart** leads traditional retailers on price per ounce ($0.34), beating **Target** and **Kroger**.
 - **Kroger** has the highest average $/oz among standard grocers — driven largely by house brand pricing.
@@ -47,18 +47,18 @@ Power BI flagged Froot Loops as the strongest driver of price distribution, vali
 **Froot Loops reached its highest average price per ounce in Q1 2025 at $0.62/oz.**
 
 **Strategic Implication:**  
-Consumers remain loyal to nostalgic staples, even as per-unit pricing climbs quietly in the background — a playbook worth analyzing across other legacy SKUs.
+Consumers remain loyal to nostalgic staples, even as per-unit pricing climbs quietly in the background; a playbook worth analyzing across other legacy SKUs.
 
 ---
 
 ### Behavioral Insight Summary
 
 This analysis reveals how **anchoring bias**, **shrinkflation**, and **retailer segmentation** create a pricing illusion.  
-What feels affordable upfront may cost more per ounce over time — quietly inflating repeat spending without obvious shelf signals.
+What feels affordable upfront may cost more per ounce over time; quietly inflating repeat spending without obvious shelf signals.
 
 ---
 
-### ✅ Files Referenced:
+### Files Referenced:
 - `/Images/Average Brand Price and Package Price per Ounce.png`
 - `/Images/Average Price per Ounce by Retailer.png`
 - `/Images/Average_Price_per_Ounce_FrootLoops_Kroger.png`
