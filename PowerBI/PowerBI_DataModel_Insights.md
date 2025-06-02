@@ -9,7 +9,7 @@ The Power BI data model is the **engine behind the insights** in the Cereal Mark
 ## Core Tables & Relational Design
 
 The data model is centered around a **primary fact table**:  
- `Cereal_Sales_Pricing_Dataset_Corrected`  
+ `Cereal_Sales_Pricing_Dataset`  
 This table serves as the **anchor for all other analytical tables** through the `Retailer_Batch_Key` and `Entry_ID`.
 
 ### One-to-Many Relationships
