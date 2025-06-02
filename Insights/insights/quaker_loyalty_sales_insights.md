@@ -3,7 +3,7 @@
 
 ---
 
-## 🥣 Overview
+## Overview
 
 This insight explores **Quaker Oats Company's performance** within the cold cereal category, focusing specifically on its flagship **Cap’n Crunch** and **Cap’n Crunch Berries** products between **2020 – March 2025** using the `Loyalty_Brand_Switching_Data_` dataset.
 
@@ -16,7 +16,7 @@ Only two of the four cold cereal products from Quaker Oats (excluding granola) w
 
 ---
 
-## 🔍 Key Performance Highlights
+## Key Performance Highlights
 
 ### **Cap’n Crunch Berries Outperforms**
 - **Sales Volume:**  
@@ -30,7 +30,7 @@ Only two of the four cold cereal products from Quaker Oats (excluding granola) w
 
 ---
 
-### 📆 **Best Sales Year: 2024**
+### **Best Sales Year: 2024**
 - **Total Sales in 2024:** **$1,040,084.55**  
   - Cap’n Crunch Berries: **$625,782.63**  
   - Cap’n Crunch: **$414,301.93**
@@ -48,7 +48,7 @@ Only two of the four cold cereal products from Quaker Oats (excluding granola) w
   - **Target:** $1.21M  
   - **Sam’s Club:** $438.5K
 
-> 🔹 **Note:** Sam’s Club is part of Walmart, but product variety and packaging formats (i.e. double-bagged or club-box packaging) may limit Quaker expansion in that format.
+> **Note:** Sam’s Club is part of Walmart, but product variety and packaging formats (i.e. double-bagged or club-box packaging) may limit Quaker expansion in that format.
 
 ---
 
@@ -64,7 +64,7 @@ Only two of the four cold cereal products from Quaker Oats (excluding granola) w
 
 ---
 
-## 🧩 Strategic Considerations
+## Strategic Considerations
 
 While **Cap’n Crunch Berries** drives more sales than its original variant, the **limited product lineup**, **moderate loyalty retention**, and **performance gaps between retailers** suggest potential opportunities:
 
@@ -79,8 +79,8 @@ While **Cap’n Crunch Berries** drives more sales than its original variant, th
 
 > Quaker Oats’ Cap’n Crunch Berries consistently outperforms its original counterpart in both **sales volume** and **total revenue**, holding a **58.34% product share** within its own portfolio.  
 > 
-> 🔹 **2024 marked Quaker’s strongest sales year**, with Walmart driving the highest revenue at $1.81M.  
-> 🔹 Loyalty is moderate, with average switch scores hovering around **0.49–0.51**.  
+> **2024 marked Quaker’s strongest sales year**, with Walmart driving the highest revenue at $1.81M.  
+> Loyalty is moderate, with average switch scores hovering around **0.49–0.51**.  
 > 
 > With only two core products in the cold cereal category, Quaker may need **innovative packaging, promotional clarity, or portfolio expansion** to remain competitive.
 
