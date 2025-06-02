@@ -1,4 +1,4 @@
-# 🍓 Cap’n Crunch Berries vs. Berry Colossal Crunch – Loyalty Performance Comparison (2020–March 2025)
+# Cap’n Crunch Berries vs. Berry Colossal Crunch – Loyalty Performance Comparison (2020–March 2025)
 
 **Visual Reference:**  
 ![QOC vs MOM Loyalty Sales](../../Images/QOC_vs_MOM_Loyalty_Sales.png)
@@ -12,9 +12,9 @@ To ensure **product-level parity**, only these two nearly identical cereal produ
 
 ---
 
-## 🧠 Key Takeaways
+## Key Takeaways
 
-### 🔹 1. **Quaker Cap’n Crunch Berries Leads in Sales and Volume**
+###  1. **Quaker Cap’n Crunch Berries Leads in Sales and Volume**
 - **QOC-CCB Total Sales:** $5.19M  
 - **MOM-BCC Total Sales:** $4.49M  
 - **QOC-CCB Sales Volume:** 886,681 units  
@@ -24,7 +24,7 @@ QOC’s Cap’n Crunch Berries consistently outperformed MOM’s Berry Colossal 
 
 ---
 
-### 🔹 2. **MOM BCC Gained Momentum in 2023, Narrowing the Gap**
+### 2. **MOM BCC Gained Momentum in 2023, Narrowing the Gap**
 - **2023 Sales:**  
   - QOC-CCB = $620,999.69  
   - MOM-BCC = $524,860.90  
@@ -36,7 +36,7 @@ QOC’s Cap’n Crunch Berries consistently outperformed MOM’s Berry Colossal 
 
 ---
 
-### 🔹 3. **Promotion Type Impacts Sales Differently**
+### 3. **Promotion Type Impacts Sales Differently**
 - QOC’s highest promo driver: **Clearance** & **No Promotion**
 - MOM’s strongest returns: **10% Off**, followed by **Clearance**
 
@@ -54,7 +54,7 @@ This shows that **MOM offers more volume for a similar price**, while QOC carrie
 
 ---
 
-## 🧠 Strategic Implication  
+## Strategic Implication  
 Quaker’s strong brand recognition keeps it ahead in loyalty-based metrics — **but MOM is closing the gap through affordability and size perception**. As economic pressure builds, MOM may gain further ground unless Quaker improves promotional clarity, adjusts packaging strategies, or invests in loyalty incentives.
 
 ---
