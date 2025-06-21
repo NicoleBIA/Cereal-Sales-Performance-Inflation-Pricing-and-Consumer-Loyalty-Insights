@@ -2,7 +2,7 @@
 [View Full PowerBI Report Here](/Cereal_Sales_Power_BI_Report/Cereal_Sales_Performance_Inflattion_Pricing_Consumer_Loyalty_Insights.pdf)
 [View Cereal Sales Performance Insights Report Here](/Cereal_Sales_Insights_Report.md)
 
-![Cereal Sales Performace Strategic Business Intelligence Report](Images/Cereal_Sales_Performance_Cover.png)
+![Cereal Sales Performace Strategic Business Intelligence Report](Images/Cereal_Sales_Performance.png)
 
 >  **Looking for the strategic rationale behind this analysis?**  
 > Explore the companion documents:  
