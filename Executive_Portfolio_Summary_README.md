@@ -12,7 +12,7 @@
 
 ---
 
-## 🟪 Project Theme and Scope
+## Project Theme and Scope
 
 **Harvest View CPG** and the **Retail Intelligence Alliance (RIA)** partnered in a simulated industry engagement to analyze consumer behavior, pricing psychology, and promotional effectiveness across the U.S. cold cereal market (2020–2025). This report delivers strategic intelligence to:
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🟦 Executive Summary
+## Executive Summary
 
 This analysis explores cereal sales performance between 2020–2025, uncovering how inflation, price sensitivity, and shifting consumer loyalty have impacted brand performance and retailer dynamics.
 
@@ -38,7 +38,7 @@ These patterns highlight the nuanced relationship between consumer psychology, p
 
 ---
 
-## 🟩 What Stakeholders Gain
+## What Stakeholders Gain
 
 - **Executives**: CPG and Retailer-level pricing recommendations backed by loyalty and inflation models  
 - **BI Leaders**: Behavioral economic insight applied to price perception and SKU-level loyalty  
@@ -46,13 +46,13 @@ These patterns highlight the nuanced relationship between consumer psychology, p
 
 ---
 
-## 🟪 Introduction
+## Introduction
 
 This report presents a simulated, full-scale BI engagement that transforms complex cereal market behavior into a rich decision-support framework. Designed in Power BI, it includes over **21 visual narratives**, interactive slicers, and DAX-powered metrics.
 
 ---
 
-## 🟡 Business Problem
+## Business Problem
 
 As inflation accelerates and shrinkflation reduces perceived value, brands and retailers face three major risks:
 
@@ -62,7 +62,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🟩 Business Questions
+## Business Questions
 
 - Which brands maintained loyalty despite pricing shifts?
 - How do promotions (e.g., BOGO, 10% Off, Clearance) affect sales behavior?
@@ -74,7 +74,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ##  Selected Strategic Spotlights
 
-### 🟢 Intra-Brand Rotation & Stickiness  
+### Intra-Brand Rotation & Stickiness  
 ![MOM Intrabrand Rotation](/Images/MOM_Intrabrand_Rotation_Loyalty.png)
 
 - Strategic insight: Flexible product switching within Malt-O-Meal (MOM) drives value without losing loyalty.  
@@ -82,7 +82,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-### 🟣 Repeat Purchase Rates & Loyalty Behavior  
+### Repeat Purchase Rates & Loyalty Behavior  
 ![Loyalty vs Switching](/Images/Loyalty_vs_Switching_Consumer_Behavior.png)
 
 - 16.09% repeat rate at Kroger for MOM reveals brand loyalty tied to affordability and value.  
@@ -90,7 +90,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-### 🔵 Pricing Perception & Margin Playbook  
+### Pricing Perception & Margin Playbook  
 ![Froot Loops at Kroger](/Images/Average_Price_per_Ounce_FrootLoops_Kroger.png)
 
 - Froot Loops’ 31.9% price increase over 4 years shows how legacy products support quiet margin gain.  
@@ -98,7 +98,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-### 🟣 Volatility & Price Stability Tradeoff  
+### Volatility & Price Stability Tradeoff  
 ![Volatility View](/Images/Price_Volatility_and_Key_Influencers.png.png)
 
 - Retailers with “stable” prices like Costco actually carried the **highest** average unit costs.  
@@ -106,9 +106,9 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🟦 Breakout Analysis Sections
+## Breakout Analysis Sections
 
-### 🟣 Costco – Perception vs. Promotion Distortion  
+### Costco – Perception vs. Promotion Distortion  
 ![Costco Cinnamon Toast Crunch BOGO](/Images/Costco_CinnamonToastCrunch_BOGO_Price_Perception.png)
 [Read Cinnamon Toast Crunch Behabioral Spotlight](/Behavioral_Spotlight/Club_Stores_CTC_Price_Perception.md)
 
@@ -117,7 +117,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🟩 Loyalty Analysis Highlights
+## Loyalty Analysis Highlights
 
 - Malt-O-Meal maintains **brand loyalty via product rotation**, not consumer stickiness to a SKU  
 - Quaker Oats sees high revenue with **lower loyalty**, indicating retention challenges  
@@ -132,7 +132,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🟪 Key Visual Narratives & Insights
+## Key Visual Narratives & Insights
 
 - Retailer Sales Rank Volatility  
 - Average Price per Ounce vs. Perceived Price per Ounce  
@@ -142,7 +142,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🔵 Techniques & Tools Used
+## Techniques & Tools Used
 
 - Power BI (Data Modeling, Slicers, Forecasts)  
 - DAX (Custom measures for price, loyalty, and margin)  
@@ -152,7 +152,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🟣 Key Findings
+## Key Findings
 
 - Consumers overestimate value loss during **stable pricing periods**, leading to misaligned price trust  
 - Promotions like BOGO can **inflate** perceived savings, but erode actual unit margin  
@@ -160,7 +160,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🔵 Strategic Recommendations Summary
+## Strategic Recommendations Summary
 
 > Find the full recommendations here:  
 > 🔗 [Strategic Recommendations Folder →](Strategic_Recommendations)
@@ -172,7 +172,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🟪 AI-Driven Strategy Opportunities
+## AI-Driven Strategy Opportunities
 
 - Forecast pricing sensitivity by retailer, brand, and region  
 - Use AI to model margin recovery strategies based on shrinkflation trends  
@@ -180,7 +180,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🟪 Retail Intelligence Alliance – Business Value
+## Retail Intelligence Alliance – Business Value
 
 - Insight into how perception, not just price, drives SKU and unit margin performance  
 - Opportunity to test pricing structures without changing MSRP  
@@ -188,7 +188,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🟦 Harvest View CPG – Business Value
+## Harvest View CPG – Business Value
 
 - Understand private-label risk in low-trust promotions  
 - Reveal brand strength in intra-portfolio switching behavior  
@@ -196,7 +196,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🟡 Risks of Inaction
+## Risks of Inaction
 
 - Missed margin expansion via undervalued legacy brands  
 - Retailer conflict from inconsistent price-pack structure  
@@ -204,7 +204,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🟪 Limitations & Data Constraints
+## Limitations & Data Constraints
 
 - Simulated CPI values, not live market feeds  
 - Some perceived price values approximated via range bins  
@@ -212,7 +212,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🟩 Future Analysis Opportunities
+## Future Analysis Opportunities
 
 - Integrate real CPI feeds for dynamic inflation alignment  
 - Build retailer-specific price elasticity simulations  
@@ -221,13 +221,13 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 📂 Repository Navigation
+## Repository Navigation
 
-- 📁 [All Behavioral Spotlights →](../Behavioral_Spotlight/)  
-- 📁 [All Strategic Recommendations →](../Strategic_Recommendations/)  
+- [All Behavioral Spotlights →](../Behavioral_Spotlight/)  
+- [All Strategic Recommendations →](../Strategic_Recommendations/)  
 - 🔗 [Power BI Report Link →](https://app.powerbi.com/groups/me/reports/your_report_id_here)
 
 ---
 
-> © 2024–2025 Nicole Reaves | Strategic Business Intelligence Studio  
+> © 2022–2025 Nicole Reaves | Analytics & Strategy Lab
 > This executive summary is part of the Cereal Sales Performance: Inflation, Pricing & Consumer Loyalty Insights project.
