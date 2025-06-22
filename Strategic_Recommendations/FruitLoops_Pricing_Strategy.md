@@ -42,7 +42,7 @@ Learn more about Price Pereption Difference Here [Price Perception Difference](/
 ## 🟩 Behavioral Intelligence Advantage
 
 - Leverages **psychological price anchors** already in place  
-- Avoids promotion-heavy messaging — this SKU sells on *emotion + expectation*  
+- Avoids promotion-heavy messaging; this SKU sells on *emotion + expectation*  
 - Creates a **“margin cushion”** via perceived price uplift, enabling retailer COGS flexibility
 
 ---
