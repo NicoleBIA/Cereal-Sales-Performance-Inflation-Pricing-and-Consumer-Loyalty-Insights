@@ -1,24 +1,24 @@
 # Strategic Recommendation: Fruit Loops Pricing Optimization Strategy
 
-🟣 Aligned Insight:
+Aligned Insight:
 [Insight: Fruit Loops Pricing Behavior Price Perception, Legacy Trust & Quiet Margin Gain](/Insights/insights/fruit_loops_price_perception_kroger_walmart.md)
 
 ---
 
-## 🟩 Strategic Goal
+## Strategic Goal
 
 To **maximize margin recovery** and **pricing power** for Froot Loops across major retailers while maintaining brand trust, emotional resonance, and perceived affordability.
 
 ---
 
-## 🟦 Opportunity Overview
+## Opportunity Overview
 
 | Retailer | Price Opportunity Type          | Key Indicator                   |
 |----------|---------------------------------|---------------------------------|
 | Kroger   | **Proven Price Tolerance**      | +31.9% increase with loyalty    |
 | Walmart  | **Perception–Reality Gap**      | –$0.34/oz gap → hidden margin   |
 
-> ℹ️ Translation: When perceived price is much higher than actual price (i.e., strong negative gap),  
+> Translation: When perceived price is much higher than actual price (i.e., strong negative gap),  
 > brands and retailers have greater room to raise prices without breaking consumer trust or triggering sticker shock.
 
 Learn more about Price Pereption Difference Here [Price Perception Difference](/Documentation/Price_Perception_Behavioral_Logic.md)
@@ -39,7 +39,7 @@ Learn more about Price Pereption Difference Here [Price Perception Difference](/
 
 ---
 
-## 🟩 Behavioral Intelligence Advantage
+## Behavioral Intelligence Advantage
 
 - Leverages **psychological price anchors** already in place  
 - Avoids promotion-heavy messaging; this SKU sells on *emotion + expectation*  
@@ -47,7 +47,7 @@ Learn more about Price Pereption Difference Here [Price Perception Difference](/
 
 ---
 
-## 🟨 Risk of Inaction
+## Risk of Inaction
 
 | Risk Type        | Impact                                            |
 |------------------|---------------------------------------------------|
@@ -57,7 +57,7 @@ Learn more about Price Pereption Difference Here [Price Perception Difference](/
 
 ---
 
-## ✅ Strategic Outcome
+## 🟪 Strategic Outcome
 
 A carefully calibrated price uplift campaign on Froot Loops can yield:
 - **+8–12% margin recovery** over 12–18 months  
