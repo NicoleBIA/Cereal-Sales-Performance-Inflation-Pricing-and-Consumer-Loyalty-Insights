@@ -47,11 +47,11 @@ I don’t create displays. I create stories with strategic clarity. My design ch
 - **Insight boxes** to synthesize meaning  
 - **Strategic recommendations** to guide action  
 - **Narrative captions** to direct the user’s eye  
-- **Clean layouts** that focus attention—not distract from it  
+- **Clean layouts** that focus attention; not distract from it  
 - **Contextual framing** that aligns with real-world decision-making
 
 ### Power BI
-I use **Power BI** not just for visual creation—but for **business translation.** Its flexible canvas layout allows for layered storytelling, interactive insight boxes, and narrative-rich dashboards that speak directly to decision-makers.
+I use **Power BI** for visual creation, but more broadly for for **business translation.** Its flexible canvas layout allows for layered storytelling, interactive insight boxes, and narrative-rich dashboards that speak directly to decision-makers.
 
 ### Tableau
 While **Tableau** offers a different UX/UI experience, I apply the same core design principles. Tableau’s strength lies in visual fluidity and fast exploration. I enhance this by incorporating **annotations for key moments** and using **storyboarding** to guide users through structured, high-level narratives. Whether I’m working in Power BI or Tableau, my focus remains the same: insight-first, action-ready storytelling.
