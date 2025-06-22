@@ -34,7 +34,7 @@ Key insights include:
 These patterns highlight the nuanced relationship between consumer psychology, perceived value, and discount strategy. Leveraging behavioral economics, Power BI Key Influencers, and custom loyalty metrics, this report offers actionable recommendations for optimizing pricing strategies and sustaining market share in a volatile economic climate.
 
 **Methodology Note:**
-> All data transformations, metrics, and visualizations were developed manually through DAX modeling, iterative design, and structured exploratory analysis. The only AI-assisted element Power BI’s Key Influencers visual—was selectively used to validate observed patterns. It served as a complementary tool, not a driver of insight. This report reflects end-to-end analytical ownership, strategic interpretation, and a deep commitment to methodological transparency and integrity.
+> All data transformations, metrics, and visualizations were developed manually through DAX modeling, iterative design, and structured exploratory analysis. The only AI-assisted element was Power BI’s Key Influencers visual, and it was selectively used to validate observed patterns. It served as a complementary tool, not a driver of insight. This report reflects end-to-end analytical ownership, visualization design choices, strategic interpretation, and a deep commitment to methodological transparency and integrity.
 
 ---
 
@@ -144,17 +144,18 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ## Techniques & Tools Used
 
-- Power BI (Data Modeling, Slicers, Forecasts)  
+- Power BI (Data Modeling, Slicers, Predictive Forecasting)  
 - DAX (Custom measures for price, loyalty, and margin)  
 - SQL (Simulated ingestion and segmentation modeling)  
-- Behavioral Economics (Anchoring, Perceived Value Gaps)  
+- Behavioral Economics (Consumer Price Anchoring, Perceived Value Gaps)  
 - AI-based price forecasting simulations  
 
 ---
 
 ## Key Findings
 
-- Consumers overestimate value loss during **stable pricing periods**, leading to misaligned price trust  
+- Consumers overestimate value loss during **stable pricing periods**, leading to misaligned price trust
+  > Even when cereal prices aren’t increasing (i.e., prices are stable), consumers still feel like they’re losing value; possibly due to shrinkflation, past inflation, or diminished promotions. This emotional perception leads them to distrust the pricing, even though it's not objectively rising.
 - Promotions like BOGO can **inflate** perceived savings, but erode actual unit margin  
 - Store brands dominate in loyalty when prices remain visible and packaging consistent  
 
