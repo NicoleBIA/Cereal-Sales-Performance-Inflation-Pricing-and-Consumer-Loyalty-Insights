@@ -1,7 +1,7 @@
 # Key Influencers Analysis – BOGO Trigger Likelihood & Promotion Segmentation
 
 ## Use Case Overview:
-This analysis explores **when and where BOGO (Buy One Get One) promotions are most likely to be triggered** across retailers, based on total sales performance. By leveraging Power BI’s **Key Influencers visual**, we can detect subtle **probability lifts** that correlate with sales thresholds—revealing actionable moments when BOGO is more likely to appear in the dataset.
+This analysis explores **when and where BOGO (Buy One Get One) promotions are most likely to be triggered** across retailers, based on total sales performance. By leveraging Power BI’s **Key Influencers visual**, we can detect subtle **probability lifts** that correlate with sales thresholds revealing actionable moments when BOGO is more likely to appear in the dataset.
 
 ---
 
@@ -45,7 +45,7 @@ While a 1.02x lift may seem modest, in high-volume environments it can result in
 
 - If a retailer generates **$15 million** annually in cereal sales across all stores...
 - And 20% of those sales are tied to **BOGO promotions** ($3 million),
-- Then a **2% lift in BOGO-triggering likelihood** could impact $60,000+ in sales behavior annually — not including potential **inventory efficiencies**, **repeat buyer retention**, or **margin optimization** from targeted promo timing.
+- Then a **2% lift in BOGO-triggering likelihood** could impact $60,000+ in sales behavior annually; not including potential **inventory efficiencies**, **repeat buyer retention**, or **margin optimization** from targeted promo timing.
 
  Even small behavioral shifts can create **large financial ripple effects** when scaled across national operations.
 
@@ -65,7 +65,7 @@ While a 1.02x lift may seem modest, in high-volume environments it can result in
 
 ---
 
-## 🧠 Behavioral Interpretation
+## Behavioral Interpretation
 
 Promotions **are behaviors**—not just discounts.  
 They’re **system-level responses** to perceived or forecasted demand, profitability pressures, and strategic positioning.
@@ -74,7 +74,7 @@ These visuals help us interpret **not just when promotions occur**, but **why**�
 
 ---
 
-## ✅ Summary
+## Summary
 
 | Concept | Value |
 |--------|-------|
@@ -85,7 +85,7 @@ These visuals help us interpret **not just when promotions occur**, but **why**�
 | Strategic Signal | Mild but measurable trigger-based pattern |
 
 ---
-```Strategically timed promotions aren’t accidents—they’re signals of underlying performance behavior. Learn how to read them.```
+```Strategically timed promotions aren’t accidents; they’re signals of underlying performance behavior. Learn how to read them.```
 
 ### 🗂 Suggested GitHub Placement
 📁 `/Behavioral_Insights_Spotlights/`  
