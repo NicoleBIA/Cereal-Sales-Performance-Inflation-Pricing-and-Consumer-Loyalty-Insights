@@ -67,7 +67,7 @@ While a 1.02x lift may seem modest, in high-volume environments it can result in
 
 ## Behavioral Interpretation
 
-Promotions **are behaviors**—not just discounts.  
+Promotions **are behaviors** not just discounts.  
 They’re **system-level responses** to perceived or forecasted demand, profitability pressures, and strategic positioning.
 
 These visuals help us interpret **not just when promotions occur**, but **why**—and **how likely they are to occur** based on measurable, observable signals in the retail environment.
