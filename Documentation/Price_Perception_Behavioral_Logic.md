@@ -7,10 +7,10 @@ Price Perception Difference (PPD) measures the average difference between what c
 
 ## Why It Matters
 
-This is not just a simple numerical delta — it’s a **behavioral insight metric**. PPD reflects how aligned or misaligned consumers are in their value interpretation of a product’s price at the unit level.
+Price perception difference (PPD) is a **behavioral insight metric**, vs a simple numerical delta. PPD reflects how aligned or misaligned consumers are in their value interpretation of a product’s price at the unit level.
 
-- A **positive PPD** means the consumer *thought it would cost more* than it did — a potential trust or brand premium signal.
-- A **negative PPD** means the consumer *thought it would cost less* — signaling possible sticker shock, dissatisfaction, or elasticity risk.
+- A **positive PPD** means the consumer *thought it would cost more* than it did, a potential trust or brand premium signal.
+- A **negative PPD** means the consumer *thought it would cost less* signaling possible sticker shock, dissatisfaction, or elasticity risk.
 
 ---
 
