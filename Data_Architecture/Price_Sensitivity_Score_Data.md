@@ -1,4 +1,4 @@
-# Price_Sensitivity_Score_Data
+# Price Sensitivity Score Data
 
 This dataset quantifies **consumer price sensitivity** by retailer and product, supporting elasticity analysis, promotional strategy refinement, and margin optimization.
 
