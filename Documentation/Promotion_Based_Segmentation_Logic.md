@@ -1,4 +1,4 @@
-# 🟪 Promotion-Based Segmentation Model
+# Promotion-Based Segmentation Model
 
 ### Overview  
 This segmentation model isolates and analyzes cereal sales performance based on **promotion type** — specifically:  
@@ -15,7 +15,7 @@ Rather than viewing promotions as a flat variable, this model treats them as **s
 
 ## Why I’m Using Promotion-Based Segmentation
 
-Promotions don’t just affect price — they shape **perceived value, urgency, and brand positioning.** By isolating and comparing performance by promotion type, I can:
+Promotions don’t just affect price, they shape **perceived value, urgency, and brand positioning.** By isolating and comparing performance by promotion type, I can:
 
 - Detect **which promotions drive meaningful volume**
 - Identify **promotion types that fail to influence price perception**
