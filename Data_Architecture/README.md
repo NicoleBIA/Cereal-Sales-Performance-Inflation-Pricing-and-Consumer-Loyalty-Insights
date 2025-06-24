@@ -1,4 +1,4 @@
-### Data Architecture – Cereal Market Evolution Project
+### Data Architecture – Cereal Sales Performance: Inflation and Consumer Loyalty Insights
 
 This document captures all key elements, strategies, and simulated design considerations behind the Cereal Market Evolution dataset created by Nicole Reaves Business Intelligence Analyst, Business Analyst and Certifified Process Improvement Specialist, (CPIS).
 
@@ -69,8 +69,7 @@ I (Nicole) led the end-to-end creation of a synthetic but business-aligned datas
   ---
 ### Outlier Treatment & Data Integrity Notes
 
-   While the dataset maintains realistic variability to reflect real-world price behavior, select outlier points—especially in price 
-   perception—were intentionally preserved to support behavioral edge case analysis.
+While the dataset maintains realistic variability to reflect real-world price behavior, select outlier points, especially in price perception were intentionally preserved to support behavioral edge case analysis.
 
 **Key examples include:**
 
@@ -94,10 +93,10 @@ Price Perception Difference (PPD) measures the average difference between what c
 
 ### Why It Matters
 
-This is not just a simple numerical delta — it’s a **behavioral insight metric**. PPD reflects how aligned or misaligned consumers are in their value interpretation of a product’s price at the unit level.
+This is not just a simple numerical delta, it’s a **behavioral insight metric**. PPD reflects how aligned or misaligned consumers are in their value interpretation of a product’s price at the unit level.
 
-- A **positive PPD** means the consumer *thought it would cost more* than it did — a potential trust or brand premium signal.
-- A **negative PPD** means the consumer *thought it would cost less* — signaling possible sticker shock, dissatisfaction, or elasticity risk.
+- A **positive PPD** means the consumer *thought it would cost more* than it did which is a potential trust or brand premium signal.
+- A **negative PPD** means the consumer *thought it would cost less* than it did, signaling possible sticker shock, dissatisfaction, or elasticity risk.
 
 ---
 
