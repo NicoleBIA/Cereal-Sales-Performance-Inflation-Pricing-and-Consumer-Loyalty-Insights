@@ -15,7 +15,7 @@ The analysis leverages real-world data structures, CPG retail frameworks, and be
 
 ## Key Insight
 
-Despite identical perceived and actual price per ounce values across three separate **BOGO** periods, price perception differences (PPDs) for **General Mills at Amazon Fresh** varied significantly — providing a window into how **consumer interpretation of discounts** shifts based on broader expectations and perceived necessity.
+Despite identical perceived and actual price per ounce values across three separate **BOGO** periods, price perception differences (PPDs) for **General Mills at Amazon Fresh** varied significantly, providing a window into how **consumer interpretation of discounts** shifts based on broader expectations and perceived necessity.
 
 ## Supporting Data Reference
 
@@ -53,7 +53,7 @@ These data points show how **identical shelf prices** can result in **vastly dif
 • Q2 2023  
 • Q1 2025  
 
-Despite **no active promotion**, perceived price rose and purchasing behavior remained strong—highlighting the role of **habitual purchasing**, **trust**, and **necessity-based urgency** in price tolerance.
+Despite **no active promotion**, perceived price rose and purchasing behavior remained strong; highlighting the role of **habitual purchasing**, **trust**, and **necessity-based urgency** in price tolerance.
 
 ---
 
@@ -87,6 +87,6 @@ For an explanation of how **Price Perception Difference (PPD)** is calculated an
 
 ## Strategic Implication
 
-**BOGO** and **No Promotion** periods both generate strong perception effects — but for **different behavioral reasons**. This suggests that promotional strategy should be **behaviorally segmented** based on consumer trust levels, brand positioning, and retailer framing power.
+**BOGO** and **No Promotion** periods both generate strong perception effects, but for **different behavioral reasons**. This suggests that promotional strategy should be **behaviorally segmented** based on consumer trust levels, brand positioning, and retailer framing power.
 
 ---
