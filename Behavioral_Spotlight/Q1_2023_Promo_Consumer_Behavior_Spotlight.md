@@ -1,7 +1,7 @@
 # Behavioral Insights Spotlight  
 ## Q1 2023 Promotion Response: Brand & Retailer Dynamics
 
-This spotlight analyzes **Q1 2023 promotional behavior** to reveal how brands and retailers respond to different price incentives. Using key Power BI visualizations, we evaluate the **total sales volume, retailer segmentation, and probability-based promotion lift** to understand what drives performance at the brand and store level.
+This spotlight analyzes **Q1 2023 promotional behavior** to reveal how brands and retailers respond to different price incentives. Using key Power BI visualizations, I evaluate the **total sales volume, retailer segmentation, and probability-based promotion lift** to understand what drives performance at the brand and store level.
 
 ---
 
