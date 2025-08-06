@@ -85,7 +85,7 @@ These visuals help us interpret **not just when promotions occur**, but **why**�
 | Strategic Signal | Mild but measurable trigger-based pattern |
 
 ---
-```Strategically timed promotions aren’t accidents; they’re signals of underlying performance behavior. Learn how to read them.```
+### Strategically timed promotions aren’t accidents; they’re signals of underlying performance behavior. Learn how to read them.
 
 ### 🗂 Suggested GitHub Placement
 📁 `/Behavioral_Insights_Spotlights/`  
