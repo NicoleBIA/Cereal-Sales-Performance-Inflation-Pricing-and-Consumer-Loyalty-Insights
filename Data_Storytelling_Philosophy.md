@@ -60,11 +60,11 @@ While **Tableau** offers a different UX/UI experience, I apply the same core des
 
 ## 🟪 Why I Prioritize Insight Boxes
 
-An insight box may be small—but its impact is powerful. It’s where the chart *breathes*. It’s where I speak directly to the user and say:
+An insight box may be small; but its impact is powerful. It’s where the chart *breathes*. It’s where I speak directly to the user and say:
 
 > “Here’s what matters. Here’s what to know. Here’s what we can do.”
 
-Whether I’m unpacking pricing behavior, consumer psychology, or inflation trends—I ground my visuals in clear, qualitative guidance.
+Whether I’m unpacking pricing behavior, consumer psychology, or inflation trends; I ground my visuals in clear, qualitative guidance.
 
 ---
 
