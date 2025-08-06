@@ -1,7 +1,7 @@
 # Key Influencers Analysis – BOGO Trigger Likelihood & Promotion Segmentation
 
 ## Use Case Overview:
-This analysis explores **when and where BOGO (Buy One Get One) promotions are most likely to be triggered** across retailers, based on total sales performance. By leveraging Power BI’s **Key Influencers visual**, we can detect subtle **probability lifts** that correlate with sales thresholds revealing actionable moments when BOGO is more likely to appear in the dataset.
+This analysis explores **when and where BOGO (Buy One Get One) promotions are most likely to be triggered** across retailers, based on total sales performance. By leveraging Power BI’s **Key Influencers visual**, I surfaced subtle **probability lifts** that correlate with sales thresholds revealing actionable moments when BOGO is more likely to appear in the dataset.
 
 ---
 
