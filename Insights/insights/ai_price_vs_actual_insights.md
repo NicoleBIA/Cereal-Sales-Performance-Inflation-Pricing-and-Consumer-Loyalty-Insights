@@ -1,4 +1,4 @@
-## AI-Driven Price vs. Actual Price – Strategic Insights
+## AI-Driven Price vs. Actual Price: Strategic Insights
 
 This analysis compares **AI Projected Pricing** against **Actual Pricing (Sum of Price USD)** across both **Retailers** and **Brands**, surfacing key behavioral and strategic patterns in execution.
 
