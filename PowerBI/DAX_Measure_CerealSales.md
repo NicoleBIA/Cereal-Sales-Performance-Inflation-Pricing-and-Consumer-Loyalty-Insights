@@ -27,6 +27,7 @@ DIVIDE(
     SELECTEDVALUE(Fact_Cereal[Ounces])
 )
 ```
+🔗 **View KPI in Action:** [Price per Ounce Visual & Insight](https://github.com/NicoleBIA/Cereal-Sales-Performance-Inflation-Pricing-and-Consumer-Loyalty-Insights/blob/main/Insights/insights/price_per_ounce_insights.md)
 
 ---
 
