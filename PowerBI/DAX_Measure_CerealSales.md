@@ -60,7 +60,7 @@ RETURN DIVIDE(_total, _units)
 
 ---
 
-### Perceived vs. Actual Price Delta ($)  
+### Perceived vs. Actual Price ($)  
 **What it is:** Measures the gap between what consumers expect to pay vs. actual price  
 **Why it was created:** Used for analyzing anchoring bias and price perception  
 **Business Question:** Are certain brands or retailers perceived as overpriced?
