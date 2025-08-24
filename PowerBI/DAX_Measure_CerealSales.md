@@ -42,6 +42,7 @@ VAR _total = SUMX(Fact_Cereal, [Price per Ounce] * Fact_Cereal[Units])
 VAR _units = SUM(Fact_Cereal[Units])
 RETURN DIVIDE(_total, _units)
 ```
+🔗 **View KPI in Action:** [Average Price per Ounce Visual & Insight](https://github.com/NicoleBIA/Cereal-Sales-Performance-Inflation-Pricing-and-Consumer-Loyalty-Insights/blob/main/Insights/insights/avg_price_per_ounce_insights.md)
 
 ---
 
