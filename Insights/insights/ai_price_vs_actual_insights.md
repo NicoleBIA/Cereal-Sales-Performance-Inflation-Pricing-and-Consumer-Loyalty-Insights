@@ -32,5 +32,5 @@ This analysis compares **AI Projected Pricing** against **Actual Pricing (Sum of
 - **Kroger and Amazon Fresh** show **higher pricing variability** by region; a more adaptive approach.
 - Differences likely reflect **localized demand, supply chain costs**, and **anchoring behavior**.
 
- **AI projections serve as the benchmark — execution shows how strategy unfolds across the real-world landscape.**
+ **AI projections serve as the benchmark; execution shows how strategy unfolds across the real-world landscape.**
 
