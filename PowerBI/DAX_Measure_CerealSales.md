@@ -99,7 +99,10 @@ STDEVX.P(
         "@d", [Weighted Avg Price per Ounce]
     ),
     [@d]
-)
+) 
+
+🔗 **View KPI in Action:** [Price Volatility Visual & Insight](https://github.com/NicoleBIA/Cereal-Sales-Performance-Inflation-Pricing-and-Consumer-Loyalty-Insights/blob/main/Insights/insights/price_volatility_insights.md)
+
 ```
 
 ---
