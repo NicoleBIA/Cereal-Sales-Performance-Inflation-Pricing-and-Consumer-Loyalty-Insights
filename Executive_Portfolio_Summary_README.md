@@ -145,7 +145,8 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 ## Techniques & Tools Used
 
 - Power BI (Data Modeling, Slicers, Predictive Forecasting)  
-- DAX (Custom measures for price, loyalty, and margin)  
+- DAX (Custom measures for price, loyalty, and margin)
+- Excel (data cleaning, data validation, exploratory data analysis) 
 - SQL (Simulated ingestion and segmentation modeling)  
 - Behavioral Economics (Consumer Price Anchoring, Perceived Value Gaps)  
 - AI-based price forecasting simulations  
