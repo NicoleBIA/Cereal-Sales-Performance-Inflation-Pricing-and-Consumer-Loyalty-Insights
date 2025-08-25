@@ -15,7 +15,7 @@ My focus is on delivering business intelligence that bridges operational reality
 
 ## 🟦 Strategic Intelligence Philosophy
 
-This section offers a deeper view into how I approach business intelligence—not just as a technical function, but as a strategic discipline.
+This section offers a deeper view into how I approach business intelligence; more than just a technical function, but as a strategic discipline.
 
 What distinguishes me as a business intelligence strategist is my ability to synthesize complex datasets into clear, actionable frameworks that anticipate challenges and position organizations for long-term success.
 
