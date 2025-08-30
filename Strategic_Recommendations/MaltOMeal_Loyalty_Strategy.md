@@ -12,6 +12,8 @@ The loyalty and brand switching data for 2024 reveals **Malt-O-Meal (MOM)** as a
 
 This insight suggests MOM has built **strong intrabrand loyalty**, where customers not only return to the brand but often repurchase the *same product variant*. This level of consumer “stickiness” is rare among budget brands and signals a competitive advantage in both pricing and perceived value.
 
+> Note: Repeat purchase rates (e.g., 16.09% for Malt-O-Meal at Kroger, 19.7% for MOM Frosted Flakes) are calculated relative to each brand’s or product’s total purchases, not total cereal sales across all brands. This metric reflects consumer loyalty within the brand/product rather than overall market share.
+
 ---
 
 ## Business Question 
