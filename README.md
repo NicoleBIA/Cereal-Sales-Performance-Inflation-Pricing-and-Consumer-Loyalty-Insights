@@ -106,7 +106,7 @@ For a deep dive into Power BI’s **data model, measures, and relationships**, r
 [![Data Governance Badge](https://img.shields.io/badge/Data%20Governance-Compliant-blueviolet?style=flat-square)](#data-governance-security--ethics)  
 - **Power BI** → Data visualization & interactive dashboards.
 - **DAX Queries** → Custom calculations for sales, price elasticity, and unique retailer counts.
-- **Python (Upcoming)** → Potential machine learning integration for advanced price prediction.
+- **MS Excel** → Data cleaning, enrichment and transformation
 
 ## **Repository Structure**
  `Documentation/` → Contains **all project-related documentation & insights**.
@@ -131,4 +131,4 @@ For a deep dive into Power BI’s **data model, measures, and relationships**, r
 ---
 **Stay tuned for continuous updates & insights as we analyze evolving market trends!**
 
-For real-time updates, visit the project’s **Notion Dashboard** or follow along in the **GitHub repository**! 🎯
+For real-time updates, visit the project’s **Notion Dashboard** or follow along in the **GitHub repository**! 
