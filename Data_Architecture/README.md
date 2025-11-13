@@ -60,7 +60,6 @@ I (Nicole) led the end-to-end creation of a synthetic but business-aligned datas
 ---
 
 #### AI Integration & Enhancement
-- Used ChatGPT to simulate behavioral indicators and generate realistic data patterns
 - Designed price forecasts based on trend logic and external CPI factors
 - Developed AI-enhanced models to project future price trends while accounting for packaging size, inflation, and promotion type
 - Integrated perceived vs. actual pricing gaps to evaluate their influence on consumer trust, urgency, and price sensitivity in real-time purchase decisions
